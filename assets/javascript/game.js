@@ -25,7 +25,7 @@ document.onkeyup = function (event) {
         guessesLeft = 12;
         randomLetter = getRandomLetter();
         yourGuessesSoFar = "";
-        console.log(randomLetter);
+        
     }
 
 
